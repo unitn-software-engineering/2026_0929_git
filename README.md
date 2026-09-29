@@ -10,3 +10,4 @@ Git is a distributed version control system (VCS) that allows multiple people to
 - `git add <file>`: Adds a file to the staging area.
 - `git commit -m "message"`: Commits the staged changes with a descriptive message.
 - `git log`: Shows the commit history for the repository.
+- `git push`
